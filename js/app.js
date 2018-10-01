@@ -210,7 +210,7 @@ function resetGame() {
     resetClockAndTime();
     resetMoves();
     resetStars();
-    // resetCards();
+    resetCards();
     shuffleDeck();
 }
 

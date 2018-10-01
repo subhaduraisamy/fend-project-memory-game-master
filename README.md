@@ -1,20 +1,18 @@
 # Memory Game Project
 
-## Table of Contents
+## How to use
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* Start selecting the blocks and if two blocks are matched,then it will get locked,increase the moves.
+* If it is not matched,then the moves will get increases.
+* Timer will be ON
+* Intially,you will have three stars,based on the move(from 16 to 24 moves) stars will get reduces.
+* Once game finishes,you will get pop up with result.
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+* "Reset" button to reset the game
+* Pop up to show your game score and reply.
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+## Dependencies to execute this repo:
+ * Bootstrap JS
+ * GoogleFonts.
